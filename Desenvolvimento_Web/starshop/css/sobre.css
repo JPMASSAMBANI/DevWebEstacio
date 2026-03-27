@@ -1,0 +1,29 @@
+.titulo {
+    font-size: 96px;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+h1 {
+    padding: 10px;
+    background-image: url('../img/sobre-background.jpg');
+}
+
+h2 {
+    margin-top: 20px;
+    border-bottom: 2px solid #333333;
+}
+
+figure {
+    background-color: #f2eded;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+}
